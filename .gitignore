@@ -1,0 +1,5 @@
+*.DS_Store
+tmp/
+*.html_old
+*.db
+*.png_backup
